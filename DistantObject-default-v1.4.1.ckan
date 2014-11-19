@@ -24,6 +24,11 @@
   "provides": [
     "DistantObject-config"
   ],
+  "conflicts": [
+    {
+      "name": "DistantObject-config"
+    }
+  ],
   "resources": {
     "repository": "https://github.com/MOARdV/DistantObject"
   },
